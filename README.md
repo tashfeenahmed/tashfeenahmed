@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi there, I'm Tashfeen
+- 🎈 I am currently working as a UX Designer at MathWorks. Previously, I have worked at B2B SaaS companies.
+- 🚀 I use design and data to build useful things
+- 🌱 I am currently learning data science techniques to automate workflow
+- ✨ Reach me on twitter: twitter.com/tashfene
 
 <!--
 **tashfeenahmed/tashfeenahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
