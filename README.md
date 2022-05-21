@@ -1,7 +1,8 @@
 - 👋 Hi there, I'm Tashfeen
-- 🎈 I am currently working as a UX Designer at MathWorks. Previously, I have worked at B2B SaaS companies.
+- 🎈 I am currently designing MATLAB (at MathWorks). Previously, I have worked at B2B SaaS companies.
 - 🚀 I use design and data to build useful things
-- 🌱 I am currently learning data science techniques to automate workflow
+- 🌱 I am learning data science techniques to automate workflows
+- 💬 Ask me about design, web technologies and data science
 - ✨ Reach me on twitter: twitter.com/tashfene
 
 <!--
