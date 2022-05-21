@@ -3,7 +3,7 @@
 - 🚀 I use design and data to build useful things
 - 🌱 I am learning data science techniques to automate workflows
 - 💬 Ask me about design, web technologies and data science
-- ✨ Reach me on twitter: twitter.com/tashfene
+- ✨ Reach me on Twitter: [twitter.com/tashfene](https://twitter.com/tashfene)
 
 <!--
 **tashfeenahmed/tashfeenahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
