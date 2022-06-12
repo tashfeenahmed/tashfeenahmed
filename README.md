@@ -1,8 +1,8 @@
 - 👋 Hi there, I'm Tashfeen
-- 🎈 I am currently designing MATLAB (at MathWorks). Previously, I have worked at B2B SaaS companies.
-- 🚀 I use design and data to build useful things
-- 🌱 I am learning data science techniques to automate workflows
-- 💬 Ask me about design, web technologies and data science
+- 🎈 I am currently working at Microsoft where I'm designing systems for AI. Previously, I have worked at MathWorks, Motive and Bayut.
+- 🚀 I use data to design useful things
+- 🌱 I am learning data science techniques to automate workflows and enhance my design process
+- 💬 Ask me about design, web technologies, language models and data science
 - ✨ Reach me on Twitter: [twitter.com/tashfene](https://twitter.com/tashfene)
 
 <!--
