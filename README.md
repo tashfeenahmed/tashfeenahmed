@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Tashfeen
-- 🎈 I am currently working at Microsoft where I'm designing systems for AI. Previously, I have worked at MathWorks, Motive and Bayut.
+- 🎈 I am currently working at Microsoft where I'm designing interfaces for better human-AI collaboration.
 - 🚀 I use data to design useful things
 - 🌱 I am learning data science techniques to automate workflows and enhance my design process
 - 💬 Ask me about design, web technologies, language models and data science
