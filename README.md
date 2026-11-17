@@ -1,7 +1,7 @@
 - 👋 Hi there, I'm [Tashfeen](https://tashfeen.me)
 - 🎈 I am currently working at Microsoft where I'm designing interfaces for better human-AI collaboration.
-- 🚀 I use data to design useful things
-- 🌱 I am learning data science techniques to automate workflows and enhance my design process
+- 🚀 I use AI to design useful things
+- 🌱 I am playing with model weights to see what works
 - 💬 Ask me about design, web technologies, language models and data science
 - ✨ Reach me on Twitter: [twitter.com/tashfene](https://twitter.com/tashfene)
 
